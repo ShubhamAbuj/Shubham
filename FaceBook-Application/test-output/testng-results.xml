@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-25T22:03:21 IST" name="Default suite" finished-at="2022-01-25T22:03:36 IST" duration-ms="15400">
+    <groups>
+    </groups>
+    <test started-at="2022-01-25T22:03:21 IST" name="Default test" finished-at="2022-01-25T22:03:36 IST" duration-ms="15400">
+      <class name="TestNG.VerifyHeader">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:TestNG.VerifyHeader@619713e5]" started-at="2022-01-25T22:03:21 IST" name="LaunchBrowser" finished-at="2022-01-25T22:03:22 IST" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method is-config="true" signature="Login()[pri:0, instance:TestNG.VerifyHeader@619713e5]" started-at="2022-01-25T22:03:23 IST" name="Login" finished-at="2022-01-25T22:03:24 IST" duration-ms="1545" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="ClickWatch()[pri:3, instance:TestNG.VerifyHeader@619713e5]" started-at="2022-01-25T22:03:24 IST" name="ClickWatch" finished-at="2022-01-25T22:03:30 IST" duration-ms="5665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickWatch -->
+        <test-method is-config="true" signature="LogOut()[pri:0, instance:TestNG.VerifyHeader@619713e5]" started-at="2022-01-25T22:03:30 IST" name="LogOut" finished-at="2022-01-25T22:03:36 IST" duration-ms="6192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogOut -->
+        <test-method is-config="true" signature="Close()[pri:0, instance:TestNG.VerifyHeader@619713e5]" started-at="2022-01-25T22:03:36 IST" name="Close" finished-at="2022-01-25T22:03:36 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- TestNG.VerifyHeader -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
